@@ -1,0 +1,32 @@
+body {
+    background-color: #000;
+}
+
+main {
+    width: 400px;
+    height: 200px;
+    background-image: url(./assets/backgorund.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    padding: 1px 20px; 
+    margin:auto;
+    margin-top:10%;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.insta {
+    list-style-image: url(./assets/Insta.png);
+}
+.twitter {
+    list-style-image: url(./assets/Twitter.png);
+}
+.youtube {
+    list-style-image: url(./assets/Youtube.png);
+}
